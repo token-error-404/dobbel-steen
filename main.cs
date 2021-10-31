@@ -63,7 +63,7 @@ namespace tim
                 Console.WriteLine("==========================");
                 Console.WriteLine("   ");
                 Console.WriteLine("=============================");
-                Console.WriteLine("druck op enter om te sluiten");
+                Console.WriteLine("druk op enter om te sluiten");
                 Console.WriteLine("=============================");
             }
 
